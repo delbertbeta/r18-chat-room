@@ -1,0 +1,15 @@
+{
+  "name": "r18-chat-room-api",
+  "version": "1.0.0",
+  "description": "The test socket server for homework to implement a chat room.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "delbertbeta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  }
+}

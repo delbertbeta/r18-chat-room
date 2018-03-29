@@ -1,0 +1,13 @@
+.DS_Store
+dist/electron/*
+dist/web/*
+build/*
+!build/icons
+node_modules/
+npm-debug.log
+npm-debug.log.*
+thumbs.db
+!.gitkeep
+yarn_error.json
+yarn_log.json
+yarn.lock
