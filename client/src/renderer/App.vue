@@ -47,7 +47,7 @@ export default {
       input: "",
       isShow: true,
       messages: [],
-      socket: io('http://ali.delbertbeta.cc:3000')
+      socket: io('http://ali.delbertbeta.cc:4222')
     };
   },
   components: {
